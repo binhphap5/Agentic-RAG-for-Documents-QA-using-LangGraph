@@ -1,4 +1,4 @@
-# Project: AI Agent Hosting with LangGraph and VLLM
+# Agentic-RAG-for-Documents-QA-using-LangGraph
 
 ## Overview
 This project involves hosting the Qwen3-14B model to create an AI agent using LangGraph and VLLM. The goal is to leverage the power of Qwen3-14B for advanced reasoning and problem-solving tasks.
@@ -13,6 +13,3 @@ This project involves hosting the Qwen3-14B model to create an AI agent using La
 - Seamless integration of Qwen3-14B with LangGraph for structured reasoning.
 - Utilization of VLLM for optimized model serving and inference.
 - Scalable and efficient AI agent deployment.
-
-
-# Agentic-RAG-for-Documents-QA-using-LangGraph
